@@ -1,6 +1,6 @@
 # Machine Learning
 
-### Algoritmo de Regressão Linear que calcula a predição do custo de cada diária para determinados número de pessoas
+### Algoritmo de Regressão Linear que calcula a predição do custo de cada diária para determinados números de pessoas
 
 Uma empresa do ramo imobiliário quer criar um modelo preditivo que utiliza os dados de valor do custo da diária e quantidade de pessoas. Ela possui uma base
 de dados histórica que contém a quantidade pessoas e o valor cobrado no custo
